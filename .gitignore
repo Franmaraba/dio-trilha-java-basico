@@ -61,3 +61,5 @@ doc-java/src/Comentarios.java
 doc-java/src/Calculadora.java
 doc-java/.vscode/settings.json
 .gitignore
+Conta-Salario/.vscode/launch.json
+Conta-Salario/.vscode/settings.json
